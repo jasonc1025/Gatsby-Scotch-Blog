@@ -26,7 +26,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          The Gray Web Blog
+          The Gray Web Blog Plus
         </Link>
       </h1>
     </div>
